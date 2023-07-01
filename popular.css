@@ -1,0 +1,64 @@
+
+.logo_img {
+    width: 110px;
+    height: 110px
+}
+
+.logo_text {
+    width: 330px;
+    position: relative;
+    bottom: 110px;
+    left: 400px;
+    margin: 50px;
+    font-size: 110px;
+    border: 15px dotted black;
+    padding: 7px;
+    background-color: rgb(128, 218, 39);
+    border-radius: 7px;
+    
+    
+}
+
+.logo_menu {
+    background-color: rgb(99, 228, 48);
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px double rgb(67, 247, 106);
+    border-radius: 9px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    font-size: 30px;
+    color: green
+}
+
+p {
+    font-size: 30px;
+    color: greenyellow;
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+    border: 10px double black;
+    font-size: 60px;
+    background-color: chartreuse;
+}
+
+iframe {
+    border: 10px solid black;
+    border-radius: 9px;
+}
+
+
+
+
+
+
+
