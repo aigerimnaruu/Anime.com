@@ -1,0 +1,94 @@
+
+.logo_img {
+    width: 110px;
+    height: 110px
+}
+
+.logo_text {
+    width: 330px;
+    position: relative;
+    bottom: 110px;
+    margin: 50px;
+    font-size: 110px;
+    border: 15px dotted black;
+    padding: 7px;
+    background-color: rgb(130, 192, 233);
+    left: 400px;
+    border-radius: 7px;
+    color: black;
+    
+}
+
+.logo_menu {
+    background-color: rgb(130, 192, 233);
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px double rgb(21, 64, 94);
+    border-radius: 9px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    border: 10px double rgb(16, 39, 88);
+    padding: 4px;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(55, 55, 245);
+    color: white;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(48, 48, 198);
+    color: white;
+}
+
+p {
+    font-size: 30px;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+img {
+    border: 6px solid blue;
+}
+
+.text {
+    font-size: 60px;
+    background-color: blue;
+    color: white;
+}
+
+h3 {
+    font-size: 40px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+iframe {
+    border: 6px solid blue;
+}
+
+iframe frameborder {
+     border: 6px solid blue;
+}
+
+
+
